@@ -10,4 +10,6 @@ Below is the list of data sources:
 •	Toronto Neighborhoods - https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M.
 
 •	New York City Neighborhoods - https://geo.nyu.edu/catalog/nyu_2451_34572
+
+•	Foursquare - https://foursquare.com/ 
  
