@@ -4,8 +4,8 @@ One of my friend is looking to settle in a city which provides him better living
 
 ## Data:
 The data to be used for this project will be acquired from the respective cities Wikipedia website pages. The datasets consist of the postal codes, neighborhood names, latitude, and longitude information for each neighborhood. Foursquare API search feature will be used to collect neighborhood venue information. Details about local venues and locality will provide insight into the qualities of a neighborhood. In addition to Foursquare, various python packages will be used to create maps and machine learning models to further provide insights into our neighborhood battle project. 
+
 Below is the list of data sources:
 •	Toronto Neighborhoods - https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M.
-•	Toronto Latitude and Longitude - http://cocl.us/Geospatial_data
 •	New York City Neighborhoods - https://geo.nyu.edu/catalog/nyu_2451_34572
-•	New York City Latitude and Longitude = Python 
+ 
