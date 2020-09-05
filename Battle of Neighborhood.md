@@ -16,6 +16,7 @@ One of my friend is looking to settle in a city which provides him better living
 Although as of now this project is to help my friend make a decision but similar analysis can also be done for any other city of the world to understand the neighborhoods. This can be helpful for any individual just like my friend, any company who is in search of a best location to set up an office so that all the employees working can be benefitted or anyone looking to setup a business related to daily necessity like gymnasium, coffee shop, grocery store, etc. 
 
 
+
 ## Data:
 City/Neighborhood Data:
 
@@ -24,6 +25,7 @@ The data to be used for this project will be acquired from the respective cities
 • Toronto Neighborhoods -  https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
 • New York City Neighborhoods - https://geo.nyu.edu/catalog/nyu_2451_34572
+
 
 
 Neighborhood Venue Data:
