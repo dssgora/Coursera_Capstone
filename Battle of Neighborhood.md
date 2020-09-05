@@ -18,7 +18,7 @@ Although as of now this project is to help my friend make a decision but similar
 
 
 ## Data:
-City/Neighborhood Data:
+### City/Neighborhood Data:
 
 The data to be used for this project will be acquired from the respective cities Wikipedia website pages. The datasets consist of the postal codes, neighborhood names, latitude, and longitude information for each neighborhood.  The data from Wikipedia pages will be scraped, wrangled, cleaned and then be read it into a pandas dataframe so that it is in a structured format
 
@@ -28,7 +28,7 @@ The data to be used for this project will be acquired from the respective cities
 
 
 
-Neighborhood Venue Data:
+### Neighborhood Venue Data:
 
 Foursquare lets users search for restaurants, nightlife spots, shops and other places in a location. It provides personalized recommendations based on factors that include user experience and their venue ratings.
 Foursquare API search feature will be used to collect neighborhood venue information. Details about local venues and locality will provide insight into the qualities of a neighborhood. 
